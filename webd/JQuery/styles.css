@@ -1,0 +1,23 @@
+body{
+    /* background/-color: red; */
+}
+
+.big-title{
+    color:yellow;
+    font-family: cursive;
+    font-size: 100px;
+}
+.margin-50{
+    margin: 50px;
+}
+
+anchor{
+    color: black;
+
+}
+
+.anchor:hover{
+    color: rgb(84, 214, 112);
+    font-size: 100px;
+    rotate: (10,10,1);
+}
