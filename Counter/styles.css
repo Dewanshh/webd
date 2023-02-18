@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    text-align: center;
+    position: relative;
+    height: 800px;
+
+}
+
+.c1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+h1{
+    font-size: 50px;
+}
+.counter-number{
+    font-size: 50px;
+}
+.counter{
+    margin: 20px;
+}
+
+.buttons{
+    margin-top:30px;
+}
