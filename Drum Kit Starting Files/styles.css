@@ -1,0 +1,19 @@
+.container{
+  display: grid;
+  background-color: red;
+  height: 400px;
+  width: 700px;
+  grid-template-rows: repeat(3,1fr);
+  grid-template-columns: repeat(3,1fr);
+  /* column-gap: 20px; */
+  }
+  .item{
+    height:100px;
+    width:200px;
+      background-color:pink;
+    
+  }
+  .item1{
+    grid-column: 1/span 2;
+  }
+ 
