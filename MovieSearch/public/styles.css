@@ -1,0 +1,35 @@
+body{
+font-size: 30px;
+background-color: #1c1c1c!important;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+}
+.xx{
+margin-left: auto;
+margin-right: auto !important;}
+.c{
+    display: flex;
+    flex-direction: row;
+}
+.head{
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: rgb(202, 202, 67);
+}
+.xx{
+    font-size: 50px!important;
+    color: white!important;
+}
+.btn{
+    background-color: rgb(202, 202, 67)!important ;
+}
+.form-control{
+    margin-right: 10px;
+    /* width: 100lh; */
+}

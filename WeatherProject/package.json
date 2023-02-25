@@ -1,0 +1,17 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "WeatherApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Dewansh Jangir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
