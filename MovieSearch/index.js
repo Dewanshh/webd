@@ -32,6 +32,6 @@ app.get("/result", function (req, resp) {
 })
 
 
-app.listen(3000, function (req, res) {
+app.listen(process.env.PORT, function (req, res) {
     console.log("Running Server 3000");
 })
