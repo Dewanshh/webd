@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    color: white;
+    /* padding: 100px; */
+    /* color: ; */
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.head{
+    text-align: center;
+    word-spacing: 5px;
+}
+
+.heading{
+    color: rgb(50, 67, 186);
+    font-weight: bold;
+    margin: 10px;
+
+    font-size: 70px;
+}
+.btn{
+    background-color:rgb(50, 67, 186);
+    margin: 10px;
+}
+.searchh{
+    width: 500px;
+    padding: 10px;
+}
+.availability{
+    text-align: center;
+    font-size: 30px!important;
+    font-weight: bold;
+}
+table,tr,td,th{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    height: 50px;
+    width: 800px;
+}
+
+.fo{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.details{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-item{
+    margin: 10px;
+}
