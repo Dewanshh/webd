@@ -1,6 +1,6 @@
 body{
 font-size: 30px;
-background-color: #1c1c1c!important;
+background-color: rgb(32, 35, 39)!important;
 }
 
 .container{
@@ -32,4 +32,46 @@ margin-right: auto !important;}
 .form-control{
     margin-right: 10px;
     /* width: 100lh; */
+}
+
+.r-container{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    padding: 20px;
+    /* border: 2px solid white; */
+    margin: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.overview{
+    height: 200px;
+    overflow: scroll;
+}
+.r-search{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.r-tagss{
+    display: flex;
+    flex-direction: column;
+
+}
+.head-1{
+    color:rgb(189, 145, 30);
+}
+.tags{
+    background-color: rgb(202, 202, 67);
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    height: 40px;
+    margin: 10px;
+    text-align: center;
+    font-size: 15px!important;
+}
+.img-fluid{
+    /* height: 300px!important; */
 }
