@@ -1,0 +1,46 @@
+nav {
+
+    padding: 10px !important;
+    padding-left: 120px !important;
+    padding-right: 120px !important;
+}
+
+.container {
+    padding: 100px;
+
+}
+#login{
+    padding: 500px!important;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+}
+
+.content {
+    margin: 20px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+
+
+}
+.cc{
+    margin-bottom: 10px;
+}
+.l-head{
+    margin-bottom: 10px;
+}
+.c-co{
+    margin-bottom: 10px;
+    height: 100px;
+}
+.sd{
+    width: 100px!important;
+}
+.ch {
+    display: flex;
+    flex-direction: column;
+}
